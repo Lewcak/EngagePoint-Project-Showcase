@@ -49,10 +49,9 @@ Here is a look at the application in action.
 
 ## Architecture & Tech Stack
 
-The application was built using a modern, decoupled microservice architecture to ensure scalability and separation of concerns.
+The application was built using a modern, decoupled microservice architecture to ensure scalability. 
 
 ![Your Architecture Diagram](assets/architecture-diagram.png)
-*(**Pro-tip:** Use a free tool like [draw.io](https://app.diagrams.net/) to create a simple diagram showing your Flutter app, Firebase, and your C# microservices. This is **extremely** impressive to employers.)*
 
 
 [Image of microservice architecture diagram]
