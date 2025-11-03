@@ -29,33 +29,23 @@ I was responsible for the Flutter app. I built and integrated the frontend and b
 
 ---
 
-## Live Demos & Screenshots
+## Core Feature GIFs
 
-Here is a look at the application in action.
-
-### Core Features (Videos/GIFs)
-
-| Email Login | Google Login | Home, Discover & Profile Pages |
+| Email Login | Google Login | Sign-Up |
 | :---: | :---: | :---: |
-| ![Email Login GIF](assets/EmailLogin.gif) | ![Google Login](assets/GoogleLogin.gif) | ![App Feed Demo](assets/AppDemo.gif) |
+| ![Email Login GIF](assets/EmailLogin.gif) | ![Google Login](assets/GoogleLogin.gif) | ![SignUp](assets/SignUp.gif) |
 
-### Key Screenshots
-
-| Business Profile | Customer Profile | Admin Verification |
+| Feed Demo & Tag Filtering | Posts & Reviews | Creating Posts & Editing Details |
 | :---: | :---: | :---: |
-| ![Business Profile Screenshot](assets/BusinessProfile.png) | ![Customer Profile Screenshot](assets/CustomerProfile.png) | ![Admin Screenshot](assets/screen3.png) |
+| ![Feed & Tag Filtering](assets/AppDemo.gif) | ![Post Reviews](assets/PostsReviews.gif) | ![Edit](assets/Editing.gif) | 
+
+| Business Website & Locations | Business DashBoards | Rewards & Progression | Settings |
+| :---: | :---: | :---: | :---: |
+| ![WebsiteLocations](assets/WebsiteLocations.gif) | ![Business Dashboard](assets/BusinessDashboard.gif) | ![rewards](assets/RewardWheel.gif) | ![settings](assets/Settings.gif) |
 
 ---
 
 ## Architecture & Tech Stack
-
-The application was built using a modern, decoupled microservice architecture to ensure scalability. 
-
-![Your Architecture Diagram](assets/architecture-diagram.png)
-
-
-[Image of microservice architecture diagram]
-
 
 **Frontend:**
 * **Flutter (Dart)** – Cross-platform mobile app (Android + iOS)
@@ -97,9 +87,3 @@ This was a final-year group project for Eduvos.
 * Durotimi Samuel (https://github.com/Timi-Samuel) - Python Review Sentiment Service 
 * **Supervisor:** Ntombesisa Mateyisi
 
----
-
-<details>
-<summary><b>Original Project Structure & Setup (for context)</b></summary>
-
-### Project Structure
