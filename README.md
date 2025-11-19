@@ -2,7 +2,11 @@
 
 EngagePoint is a Android mobile application designed to bridge the digital engagement gap for small and medium-sized enterprises. It provides a platform for businesses to build direct customer connections, showcase products, and send targeted notifications.
 
-This repository serves as a portfolio showcase for my contributions to this group project. The original project repository is currently private.
+This repository serves as a portfolio showcase for my contributions to this group project.
+
+Link to original repo
+
+https://github.com/ChristiaanHuisman/EngagePoint_ITMDA_GroupS11
 
 ---
 
